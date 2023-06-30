@@ -129,6 +129,7 @@
   <ItemGroup>
     <ClCompile Include="Arrays.cpp" />
     <ClCompile Include="Pointers.cpp" />
+    <ClCompile Include="PointersToStructures.cpp" />
     <ClCompile Include="Reference.cpp" />
     <ClCompile Include="Source.cpp" />
     <ClCompile Include="Structures.cpp" />
