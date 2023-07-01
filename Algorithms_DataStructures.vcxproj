@@ -127,7 +127,10 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="ArrayParameter.cpp" />
     <ClCompile Include="Arrays.cpp" />
+    <ClCompile Include="Functions.cpp" />
+    <ClCompile Include="ParameterPassingMethods.cpp" />
     <ClCompile Include="Pointers.cpp" />
     <ClCompile Include="PointersToStructures.cpp" />
     <ClCompile Include="Reference.cpp" />
