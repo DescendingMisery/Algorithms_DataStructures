@@ -13,34 +13,40 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
+    <Filter Include="Source Files\C_C++_Concepts">
+      <UniqueIdentifier>{eca560db-87c4-4159-938f-6b688c478aac}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="ArrayParameter.cpp">
+      <Filter>Source Files\C_C++_Concepts</Filter>
+    </ClCompile>
     <ClCompile Include="Arrays.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="Structures.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="Source.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="Pointers.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="Reference.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="PointersToStructures.cpp">
-      <Filter>Source Files</Filter>
+      <Filter>Source Files\C_C++_Concepts</Filter>
     </ClCompile>
     <ClCompile Include="Functions.cpp">
-      <Filter>Source Files</Filter>
+      <Filter>Source Files\C_C++_Concepts</Filter>
     </ClCompile>
     <ClCompile Include="ParameterPassingMethods.cpp">
-      <Filter>Source Files</Filter>
+      <Filter>Source Files\C_C++_Concepts</Filter>
     </ClCompile>
-    <ClCompile Include="ArrayParameter.cpp">
-      <Filter>Source Files</Filter>
+    <ClCompile Include="Pointers.cpp">
+      <Filter>Source Files\C_C++_Concepts</Filter>
+    </ClCompile>
+    <ClCompile Include="PointersToStructures.cpp">
+      <Filter>Source Files\C_C++_Concepts</Filter>
+    </ClCompile>
+    <ClCompile Include="Reference.cpp">
+      <Filter>Source Files\C_C++_Concepts</Filter>
+    </ClCompile>
+    <ClCompile Include="Source.cpp">
+      <Filter>Source Files\C_C++_Concepts</Filter>
+    </ClCompile>
+    <ClCompile Include="Structures.cpp">
+      <Filter>Source Files\C_C++_Concepts</Filter>
+    </ClCompile>
+    <ClCompile Include="StructuresAsParameters.cpp">
+      <Filter>Source Files\C_C++_Concepts</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
