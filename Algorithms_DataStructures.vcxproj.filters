@@ -48,5 +48,17 @@
     <ClCompile Include="StructuresAsParameters.cpp">
       <Filter>Source Files\C_C++_Concepts</Filter>
     </ClCompile>
+    <ClCompile Include="ModularProgramming.cpp">
+      <Filter>Source Files\C_C++_Concepts</Filter>
+    </ClCompile>
+    <ClCompile Include="OOP.cpp">
+      <Filter>Source Files\C_C++_Concepts</Filter>
+    </ClCompile>
+    <ClCompile Include="OOPwithConstructors.cpp">
+      <Filter>Source Files\C_C++_Concepts</Filter>
+    </ClCompile>
+    <ClCompile Include="Template.cpp">
+      <Filter>Source Files\C_C++_Concepts</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
