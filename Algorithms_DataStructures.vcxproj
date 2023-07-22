@@ -136,11 +136,15 @@
     <ClCompile Include="ParameterPassingMethods.cpp" />
     <ClCompile Include="Pointers.cpp" />
     <ClCompile Include="PointersToStructures.cpp" />
+    <ClCompile Include="Recursion.cpp" />
     <ClCompile Include="Reference.cpp" />
     <ClCompile Include="Source.cpp" />
+    <ClCompile Include="Static_Global.cpp" />
     <ClCompile Include="Structures.cpp" />
     <ClCompile Include="StructuresAsParameters.cpp" />
     <ClCompile Include="Template.cpp" />
+    <ClCompile Include="Testzone.cpp" />
+    <ClCompile Include="TreeRecursion.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

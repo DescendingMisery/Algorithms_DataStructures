@@ -16,6 +16,9 @@
     <Filter Include="Source Files\C_C++_Concepts">
       <UniqueIdentifier>{eca560db-87c4-4159-938f-6b688c478aac}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Source Files\Recursion">
+      <UniqueIdentifier>{d92205e4-210f-47ba-ad7d-aa65fb8eda36}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="ArrayParameter.cpp">
@@ -59,6 +62,18 @@
     </ClCompile>
     <ClCompile Include="Template.cpp">
       <Filter>Source Files\C_C++_Concepts</Filter>
+    </ClCompile>
+    <ClCompile Include="Testzone.cpp">
+      <Filter>Source Files\C_C++_Concepts</Filter>
+    </ClCompile>
+    <ClCompile Include="Recursion.cpp">
+      <Filter>Source Files\Recursion</Filter>
+    </ClCompile>
+    <ClCompile Include="Static_Global.cpp">
+      <Filter>Source Files\Recursion</Filter>
+    </ClCompile>
+    <ClCompile Include="TreeRecursion.cpp">
+      <Filter>Source Files\Recursion</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
