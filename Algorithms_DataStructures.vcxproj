@@ -130,6 +130,7 @@
     <ClCompile Include="ArrayParameter.cpp" />
     <ClCompile Include="Arrays.cpp" />
     <ClCompile Include="Functions.cpp" />
+    <ClCompile Include="IndirectRecursion.cpp" />
     <ClCompile Include="ModularProgramming.cpp" />
     <ClCompile Include="OOP.cpp" />
     <ClCompile Include="OOPwithConstructors.cpp" />

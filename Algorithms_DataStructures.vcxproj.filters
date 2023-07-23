@@ -75,5 +75,8 @@
     <ClCompile Include="TreeRecursion.cpp">
       <Filter>Source Files\Recursion</Filter>
     </ClCompile>
+    <ClCompile Include="IndirectRecursion.cpp">
+      <Filter>Source Files\Recursion</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
