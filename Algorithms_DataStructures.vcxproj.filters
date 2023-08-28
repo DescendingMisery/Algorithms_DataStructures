@@ -78,5 +78,14 @@
     <ClCompile Include="IndirectRecursion.cpp">
       <Filter>Source Files\Recursion</Filter>
     </ClCompile>
+    <ClCompile Include="PowerFunction.cpp">
+      <Filter>Source Files\Recursion</Filter>
+    </ClCompile>
+    <ClCompile Include="SumOfN-terms.cpp">
+      <Filter>Source Files\Recursion</Filter>
+    </ClCompile>
+    <ClCompile Include="TaylorSeries.cpp">
+      <Filter>Source Files\Recursion</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
